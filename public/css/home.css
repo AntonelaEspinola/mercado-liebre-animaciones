@@ -308,5 +308,8 @@ main section article i:hover {
   .home footer .art-footer {
     display: flex;
   }
+  .home footer article i:hover {
+    color: var(--color-gris-oscuro);
+  }
   /*-------------------------------------------------------*/
 }
